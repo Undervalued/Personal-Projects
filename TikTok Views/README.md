@@ -3,7 +3,11 @@ It used to be possible to add views with only one device, but it got patched.
 Then, it took me some effort but I was able to register devices, check https://github.com/Undervalued/tiktok-device-register
 But, obviously, it got patched.
 
-<img src="image.png" alt="image" width="1000">
-
-I used to own this account where i had only 1 video but with 2.2M views, but lost access
+Here's one account that I own with 2.2M Views
 https://www.tiktok.com/@mostviewedtiktok0
+<img src="views.png" alt="image" width="600">
+</br>
+Here's a picture of a video in my account.
+</br>
+<img src="image.png" alt="image" width="500">
+</br>
